@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+code虐我千百遍，我待code如初恋。
+
 <!--
 **SUNsyg/SUNsyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<image src="https://img.shields.io/badge/Javascript-orange"></image>
+<image src="https://img.shields.io/badge/JQuery-yellow"></image>
+<image src="https://img.shields.io/badge/vue-2.x-success"></image>
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNsyg&show_icons=true&theme=radical)
